@@ -1,29 +1,21 @@
-![](https://github.com/kharnakhoeva/portfolio/blob/main/15440802a87846e98df2971e7e8d8c35.jpg)
-
 # Обо мне
 
-Привет! Меня зовут Галина Харнахоева, и я начинающий data scientist. Здесь я представила часть моих проектов.
+Привет! Меня зовут Максим Петров, и я начинающий Data Scientist. Здесь можно ознакомиться с моим портфолио.
 
-Основной опыт у меня - учебные проекты по специальности data scientist, сейчас прохожу курс [Deep Learning School](https://stepik.org/org/dlschool). Благодаря предыдущим местам работы разбираюсь в банковском и страховом бизнесе.  
-Мне нравится работать с данными, экспериментировать, я отлично умею переводить с бизнесового языка и обратно.
+Основной опыт у меня - учебные проекты в области Data Science.
+Мне нравится работать с данными, экспериментировать, решать прикладные задачи.
 
 Контакты:
-* Почта: [kharnakhoeva@gmail.com](mailto:kharnakhoeva@gmail.com)
-* Telegram: [@kharnakhoeva](https://t.me/kharnakhoeva)
+* Почта: [mpeatrxov@gmail.com](mailto:mpeatrxov@gmail.com)
+* Telegram: [@max_pt](https://t.me/max_pt)
 
-[Резюме на hh](https://khimki.hh.ru/resume/c45d82d0ff0b4e7c2b0039ed1f337961623375)
+[Резюме на hh](https://hh.ru/resume/c6c20e49ff070a17af0039ed1f6a50555a5043?customDomain=1)
 
-Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL.
+Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, CatBoost, XGBoost, LightGBM, SQL.
 
 # Хакатоны
 
-* «Росэлторг» — zakupkiHack 2.0
-
-# Стажировка
-
- | Проект | Задачи проекта | Стек |
-| :-----------| :----------- | :----------- |
-| [Объем стабильной части средств на депозитных счетах](https://github.com/kharnakhoeva/portfolio/tree/main/p18_bank_deposits) | На основании данных об объемах стабильной части средств на депозитных счетах клиентов банку нужна модель, которая оценивает объем стабильной части средств на дату | NumPy, Pandas, Python, Matplotlib
+* GPN Intelligence Cup 2023 - ежегодный кейс-чемпионат компании «Газпром нефть» для студентов экономических и ИТ-специальностей.
 
 
 # Дипломный проект
